@@ -8,5 +8,9 @@ public interface OrderService {
 
 	public Order saveOrder(Order order);
 	
-	public List<Order> getAllOrder();
+	public List<Order> getAllOrderUserBased(String user_id);
+	
+	public List<Order> getAllOrderByDTOProjection(String userID);
+
+	
 }
