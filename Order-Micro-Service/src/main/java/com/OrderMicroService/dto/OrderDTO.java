@@ -1,34 +1,16 @@
-package com.OrderMicroService.entity;
+package com.OrderMicroService.dto;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.Table;
-
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
-import lombok.ToString;
 
 /**
- * @author sande
+ * 
+ * @author OrderDto basically used for the DTO projection. 
  *
  */
-@Entity
-@Table(name = "ORDER_MST")
-@Data
-@AllArgsConstructor
-@NoArgsConstructor
-@ToString
-public class Order {
-
-	@Id
-	@GeneratedValue
+public class OrderDTO {
 	int orderID;
 	String userID; // as we login the flip-kart each user is provided with some user id
 	String orderDescription;
 	double price;
-	
 	public int getOrderID() {
 		return orderID;
 	}
@@ -55,14 +37,16 @@ public class Order {
 	}
 	@Override
 	public String toString() {
-		return "Order [orderID=" + orderID + ", userID=" + userID + ", orderDescription=" + orderDescription
+		return "OrderDTO [orderID=" + orderID + ", userID=" + userID + ", orderDescription=" + orderDescription
 				+ ", price=" + price + "]";
 	}
 	
-	
-	
-	
-	
+	public OrderDTO(int orderID, String orderDescription, double price) {
+		super();
+		this.orderID = orderID;
+		this.orderDescription = orderDescription;
+		this.price = price;
+	}	
 	
 	
 }
