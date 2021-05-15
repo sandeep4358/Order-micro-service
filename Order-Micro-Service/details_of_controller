@@ -1,0 +1,17 @@
+url to add the order
+----------------------------------
+http://localhost:8080/OrderResource/orders
+
+json text
+----------------------------------
+{
+"orderDescription":"APPLE Watch Series 3 GPS",
+"price":"23900",
+"userID":"US003"
+}
+
+Fetch order user by
+---------------------------------
+http://localhost:8080/OrderResource/findAllOrderUserBased/US002
+
+Interceptor:- PreRequestInterceptor
