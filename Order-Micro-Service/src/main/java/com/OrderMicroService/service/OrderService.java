@@ -2,6 +2,7 @@ package com.OrderMicroService.service;
 
 import java.util.List;
 
+import com.OrderMicroService.dto.OrderDTO;
 import com.OrderMicroService.entity.Order;
 
 public interface OrderService {
@@ -10,7 +11,7 @@ public interface OrderService {
 	
 	public List<Order> getAllOrderUserBased(String user_id);
 	
-	public List<Order> getAllOrderByDTOProjection(String userID);
+	public List<OrderDTO> getAllOrderByDTOProjection(String userID);
 
 	
 }

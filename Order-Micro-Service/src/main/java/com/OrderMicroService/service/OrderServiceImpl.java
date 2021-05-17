@@ -27,15 +27,15 @@ public class OrderServiceImpl implements OrderService {
 	}
 
 	@Override
-	public List<Order> getAllOrderByDTOProjection(String userID) {
-		// TODO Auto-generated method stub
+	public List<OrderDTO> getAllOrderByDTOProjection(String userID) {
+		// TODO Auto-generated method stub	
 		List<OrderDTO> result = repository.getAllOrderDetailsUsingUserIdDTOProjection(userID);
 		System.out.println("<----Result fetch from DTO projectoin is--->");
 		result.forEach(temp -> {  // use the lambda expression for printing.
 			System.out.println(temp);
 		});
 
-		return null;
+		return result;
 	}
 
 }
