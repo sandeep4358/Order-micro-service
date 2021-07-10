@@ -1,0 +1,110 @@
+2021-05-16 13:37:52 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 25580 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-16 13:37:52 [restartedMain] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-16 13:37:52 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-16 13:37:55 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				Started OrderMicroServiceApplication in 3.328 seconds (JVM running for 4.069)
+2021-05-16 13:38:37 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 25580 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-16 13:38:37 [restartedMain] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-16 13:38:37 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-16 13:38:38 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				Started OrderMicroServiceApplication in 0.606 seconds (JVM running for 47.013)
+2021-05-16 13:38:58 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 25580 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-16 13:38:58 [restartedMain] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-16 13:38:58 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-16 13:38:59 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				Started OrderMicroServiceApplication in 0.628 seconds (JVM running for 68.546)
+2021-05-16 13:39:07 [http-nio-8080-exec-1] DEBUG c.O.controller.OrderController -
+				Request US003
+2021-05-16 13:39:58 [http-nio-8080-exec-3] DEBUG c.O.controller.OrderController -
+				testing devtools....
+2021-05-16 13:40:27 [http-nio-8080-exec-5] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-16 13:40:27 [http-nio-8080-exec-7] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-16 13:40:27 [http-nio-8080-exec-7] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-16 13:40:35 [http-nio-8080-exec-8] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-16 13:40:35 [http-nio-8080-exec-8] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-16 13:40:36 [http-nio-8080-exec-6] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-16 13:40:36 [http-nio-8080-exec-6] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-16 13:41:09 [http-nio-8080-exec-1] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-16 13:41:09 [http-nio-8080-exec-1] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-16 13:41:09 [http-nio-8080-exec-4] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-16 13:41:09 [http-nio-8080-exec-4] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-16 13:41:43 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 25580 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-16 13:41:43 [restartedMain] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-16 13:41:43 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-16 13:46:05 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 25580 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-16 13:46:05 [restartedMain] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-16 13:46:05 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-16 13:46:23 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 18660 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-16 13:46:23 [restartedMain] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-16 13:46:23 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-16 13:54:08 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 23612 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-16 13:54:08 [restartedMain] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-16 13:54:08 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-16 14:31:59 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 20196 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-16 14:31:59 [restartedMain] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-16 14:31:59 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-16 14:40:50 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 24140 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-16 14:40:50 [restartedMain] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-16 14:40:50 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-16 14:41:27 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 22556 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-16 14:41:27 [restartedMain] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-16 14:41:27 [restartedMain] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-16 14:47:58 [main] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 17520 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-16 14:47:58 [main] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-16 14:47:58 [main] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-16 14:48:35 [main] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 1952 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-16 14:48:35 [main] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-16 14:48:35 [main] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-16 20:50:38 [main] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 22968 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-16 20:50:38 [main] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-16 20:50:38 [main] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default

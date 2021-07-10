@@ -1,0 +1,16 @@
+2021-04-19 00:29:25 [main] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 27276 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-04-19 00:29:25 [main] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-19 00:29:25 [main] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-04-19 00:29:27 [main] INFO  c.O.OrderMicroServiceApplication -
+				Started OrderMicroServiceApplication in 2.938 seconds (JVM running for 3.696)
+2021-04-19 23:59:23 [main] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 18864 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-04-19 23:59:23 [main] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-19 23:59:23 [main] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-04-19 23:59:26 [main] INFO  c.O.OrderMicroServiceApplication -
+				Started OrderMicroServiceApplication in 3.213 seconds (JVM running for 4.081)

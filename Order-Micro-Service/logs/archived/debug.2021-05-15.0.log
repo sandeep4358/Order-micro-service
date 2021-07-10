@@ -1,0 +1,70 @@
+2021-05-15 08:21:55 [main] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 10860 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-15 08:21:55 [main] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-15 08:21:55 [main] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-15 08:22:00 [main] INFO  c.O.OrderMicroServiceApplication -
+				Started OrderMicroServiceApplication in 5.321 seconds (JVM running for 6.01)
+2021-05-15 08:23:21 [main] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 21112 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-15 08:23:21 [main] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-15 08:23:21 [main] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-15 08:23:26 [main] INFO  c.O.OrderMicroServiceApplication -
+				Started OrderMicroServiceApplication in 5.665 seconds (JVM running for 6.237)
+2021-05-15 08:26:53 [http-nio-8080-exec-2] DEBUG c.O.controller.OrderController -
+				Request US002
+2021-05-15 08:26:53 [http-nio-8080-exec-3] DEBUG c.O.controller.OrderController -
+				Request US002
+2021-05-15 08:26:54 [http-nio-8080-exec-4] DEBUG c.O.controller.OrderController -
+				Request US002
+2021-05-15 08:27:00 [http-nio-8080-exec-5] DEBUG c.O.controller.OrderController -
+				Request US002
+2021-05-15 08:28:58 [http-nio-8080-exec-9] DEBUG c.O.controller.OrderController -
+				Request US002
+2021-05-15 08:28:58 [http-nio-8080-exec-6] DEBUG c.O.controller.OrderController -
+				Request US002
+2021-05-15 08:28:59 [http-nio-8080-exec-7] DEBUG c.O.controller.OrderController -
+				Request US002
+2021-05-15 08:29:28 [main] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 18428 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-15 08:29:28 [main] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-15 08:29:28 [main] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-15 08:29:31 [main] INFO  c.O.OrderMicroServiceApplication -
+				Started OrderMicroServiceApplication in 3.264 seconds (JVM running for 4.415)
+2021-05-15 08:38:08 [http-nio-8080-exec-10] DEBUG c.O.controller.OrderController -
+				order details from client :: Order [orderID=0, userID=US003, orderDescription=Apple MGND3HNA MacBook Air, price=92900.0]
+2021-05-15 08:38:08 [http-nio-8080-exec-10] INFO  c.O.controller.OrderController -
+				order is saved in the cart
+2021-05-15 08:46:37 [main] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 13048 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-05-15 08:46:37 [main] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-05-15 08:46:37 [main] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-15 08:46:39 [main] INFO  c.O.OrderMicroServiceApplication -
+				Started OrderMicroServiceApplication in 2.888 seconds (JVM running for 3.598)
+2021-05-15 08:47:31 [http-nio-8080-exec-1] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-15 08:47:40 [http-nio-8080-exec-2] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-15 08:47:40 [http-nio-8080-exec-3] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-15 08:48:28 [http-nio-8080-exec-4] DEBUG c.O.controller.OrderController -
+				order details from client :: Order [orderID=0, userID=US003, orderDescription=APPLE Watch Series 3 GPS, price=23900.0]
+2021-05-15 08:48:28 [http-nio-8080-exec-4] INFO  c.O.controller.OrderController -
+				order is saved in the cart
+2021-05-15 08:54:16 [http-nio-8080-exec-6] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-15 08:55:32 [http-nio-8080-exec-8] DEBUG c.O.controller.OrderController -
+				order details from client :: Order [orderID=0, userID=US003, orderDescription=APPLE Watch Series 3 GPS  - 38 mm Silver Aluminium Case with Fog Sport Band, price=20900.0]
+2021-05-15 08:55:32 [http-nio-8080-exec-8] INFO  c.O.controller.OrderController -
+				order is saved in the cart
+2021-05-15 08:55:50 [http-nio-8080-exec-9] DEBUG c.O.I.PreRequestInterceptor -
+				Invalid Request :- Request does not contain the order-aut-key as header
+2021-05-15 08:57:07 [http-nio-8080-exec-1] DEBUG c.O.controller.OrderController -
+				Request US003

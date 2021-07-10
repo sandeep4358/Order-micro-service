@@ -1,0 +1,44 @@
+2021-04-20 00:00:40 [http-nio-8080-exec-1] DEBUG c.O.controller.OrderController -
+				order details from client :: Order [orderID=0, userID=US003, orderDescription=samsung Smart TV, price=49000.0]
+2021-04-20 00:00:40 [http-nio-8080-exec-1] INFO  c.O.controller.OrderController -
+				order is saved in the cart
+2021-04-20 00:00:49 [http-nio-8080-exec-4] DEBUG c.O.controller.OrderController -
+				order details from client :: Order [orderID=0, userID=, orderDescription=samsung Smart TV, price=49000.0]
+2021-04-20 00:00:49 [http-nio-8080-exec-4] ERROR c.O.controller.OrderController -
+				UserID cannot be empty :: Please login with the proper loging id
+2021-04-20 00:00:49 [http-nio-8080-exec-4] DEBUG c.O.controller.OrderController -
+				Excepiton handled with invalid filed
+2021-04-20 00:05:54 [main] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 12932 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-04-20 00:05:54 [main] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-20 00:05:54 [main] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-04-20 00:05:58 [main] INFO  c.O.OrderMicroServiceApplication -
+				Started OrderMicroServiceApplication in 4.387 seconds (JVM running for 5.571)
+2021-04-20 00:06:07 [http-nio-8080-exec-1] DEBUG c.O.controller.OrderController -
+				order details from client :: Order [orderID=0, userID=, orderDescription=samsung Smart TV, price=49000.0]
+2021-04-20 00:06:07 [http-nio-8080-exec-1] ERROR c.O.controller.OrderController -
+				UserID cannot be empty :: Please login with the proper loging id
+2021-04-20 00:06:07 [http-nio-8080-exec-1] DEBUG c.O.e.handler.OrderExceptionHandler -
+				Excepiton handled with invalid filed
+2021-04-20 00:07:53 [main] INFO  c.O.OrderMicroServiceApplication -
+				Starting OrderMicroServiceApplication using Java 15.0.1 on DESKTOP-TAEAA0R with PID 6800 (C:\Users\sande\git\Order-micro-service\Order-Micro-Service\target\classes started by sande in C:\Users\sande\git\Order-micro-service\Order-Micro-Service)
+2021-04-20 00:07:53 [main] DEBUG c.O.OrderMicroServiceApplication -
+				Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-20 00:07:53 [main] INFO  c.O.OrderMicroServiceApplication -
+				No active profile set, falling back to default profiles: default
+2021-04-20 00:07:55 [main] INFO  c.O.OrderMicroServiceApplication -
+				Started OrderMicroServiceApplication in 3.168 seconds (JVM running for 3.892)
+2021-04-20 00:08:03 [http-nio-8080-exec-1] DEBUG c.O.controller.OrderController -
+				order details from client :: Order [orderID=0, userID=, orderDescription=samsung Smart TV, price=49000.0]
+2021-04-20 00:08:03 [http-nio-8080-exec-1] ERROR c.O.controller.OrderController -
+				UserID cannot be empty :: Please login with the proper loging id
+2021-04-20 00:08:03 [http-nio-8080-exec-1] DEBUG c.O.e.handler.OrderExceptionHandler -
+				Excepiton handled with invalid filed
+2021-04-20 00:08:04 [http-nio-8080-exec-2] DEBUG c.O.controller.OrderController -
+				order details from client :: Order [orderID=0, userID=, orderDescription=samsung Smart TV, price=49000.0]
+2021-04-20 00:08:04 [http-nio-8080-exec-2] ERROR c.O.controller.OrderController -
+				UserID cannot be empty :: Please login with the proper loging id
+2021-04-20 00:08:04 [http-nio-8080-exec-2] DEBUG c.O.e.handler.OrderExceptionHandler -
+				Excepiton handled with invalid filed
